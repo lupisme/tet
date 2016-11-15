@@ -1,9 +1,11 @@
-#include<iostream>
+﻿#include<iostream>
 #include<cstring>
 #include<string>
 #include<sstream>
 #include<ctime>
 #include<cstdlib>
+
+//wahaha
 
 using namespace std;
 
@@ -164,3 +166,5 @@ void flash(int a[][N],int b[][N],int x,int y){
 			flag--; 
 	 	}	
 }	
+
+//good
